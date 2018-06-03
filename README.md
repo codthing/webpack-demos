@@ -104,7 +104,7 @@ $ webpack
 
 ## Demo01: Entry file ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo01))
 
-入口文件是Webpack读取以建立`bundle.js`的文件。
+入口文件是Webpack用来读取 `bundle.js` 的文件。
 
 例如，`main.js`是一个入口文件
 
